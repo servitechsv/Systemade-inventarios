@@ -4,6 +4,8 @@ Instalar Node
 para correlo copia y pega lo siguiente
 npm run dev -- --host
 
-                  <img src="https://raw.githubusercontent.com/servitechsv/Systemade-inventarios/refs/heads/main/vokoscreenNG-2025-08-12_17-19-50.067.png" alt="Texto alternativo de la imagen" width="ancho" height="alto">
 
-                        <img src="https://raw.githubusercontent.com/servitechsv/Systemade-inventarios/refs/heads/main/vokoscreenNG-2025-08-12_17-09-58.677.png" alt="Texto alternativo de la imagen" width="ancho" height="alto">
+
+![Login](/vokoscreenNG-2025-08-12_17-19-50.067.png)
+
+![Dashboard](/vokoscreenNG-2025-08-12_17-09-58.677.png)
